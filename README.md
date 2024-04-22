@@ -1,5 +1,4 @@
-
-# Simple Weather Website
+# ☀️ Simple Weather Website
 
 The Simple Weather Website is a basic web application that provides current weather information for a specified location. It's built using HTML, CSS, and JavaScript and relies on a weather API to fetch and display weather data.
 
@@ -53,4 +52,4 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 If you have any questions or suggestions, please feel free to contact us at abhisekhnayek1@gmail.com.
 
-Enjoy using the Simple Weather Website!
+Enjoy using the Simple Weather Website! 🌤️🌈
